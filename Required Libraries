@@ -1,0 +1,1 @@
+pip install langchain langchain-core langchain-groq python-dotenv
